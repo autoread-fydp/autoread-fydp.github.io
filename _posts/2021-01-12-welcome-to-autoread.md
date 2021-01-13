@@ -1,10 +1,10 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Welcome to autoread!"
+date: 2021-01-12T21:35:00-05:00
 categories:
   - blog
 tags:
-  - Jekyll
+  - non-technical
   - update
 ---
 
