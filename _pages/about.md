@@ -4,7 +4,7 @@ title: "About"
 ---
 
 ## Needs Assessment
-Audiobooks have gained increasing popularity with the advent of services like Audible. From 2011 to 2018, the share of adults who have listened to an audiobook in the last 12 months have increased 11 to 18 percent. 
+Audiobooks have gained increasing popularity with the advent of services like Audible. From 2011 to 2018, the share of adults who have listened to an audiobook in the last 12 months have increased from 11 to 18 percent. 
 
 <figure>
 	<a href="https://brandongaille.com/wp-content/uploads/2018/06/Audiobook-Industry-Statistics-by-Listener-Market-Penetration.png"><img src="https://brandongaille.com/wp-content/uploads/2018/06/Audiobook-Industry-Statistics-by-Listener-Market-Penetration.png"></a>
