@@ -1,6 +1,13 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.8"
+  overlay_image: https://dl.dropboxusercontent.com/s/p9ib7njqjieyox4/fydp-poster.png
+  actions:
+    - label: "View Poster"
+      url: "https://dl.dropboxusercontent.com/s/p9ib7njqjieyox4/fydp-poster.png"
 ---
 
 ## Needs Assessment
