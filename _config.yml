@@ -21,6 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: autoread-fydp
 minimal_mistakes_skin: default
 search: true
+teaser: /assets/images/autoread-system-cropped.png
+logo: "/assets/images/autoread-logo.png"
 
 # Build settings
 markdown: kramdown
