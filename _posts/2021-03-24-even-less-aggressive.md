@@ -16,7 +16,18 @@ Tensorboard data can be found [here](https://tensorboard.dev/experiment/L7nvx6uG
 
 I had originally missed those books since they didn't start with "Anne"
 
-This model is definitely an improvement from the previous one, being much more consistent in its output. It is also more sensitive to punctuation, comparitively. Check out the audio samples below
+This model is definitely an improvement from the previous one, being much more consistent in its output. It is also more sensitive to punctuation, comparitively.
+
+The best example of this model at work is probably its attempt at reading a page from Harry Potter and the Order of the Phoenix as part of the entire autoread system (camera and ocr included).
+
+<audio
+    controls
+    src="/assets/audio/ksavage-6/hp-page.wav">
+    Your browser does not support the
+    <code>audio</code> element.
+</audio>
+
+# More audio samples
 
 <figure>
   <figcaption>The birch canoe slid on the smooth planks.</figcaption>
