@@ -1,0 +1,26 @@
+Emily Zeng:
+  name: "Emily Zeng"
+  bio: "Text to Speech"
+  avatar: "/assets/images/emily-prof-profile.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zhixuan.zeng@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.ezxzeng.com"
+
+Cheryl Gao:
+  name: "Cheryl Gao"
+  bio: "Text to Speech"
+  avatar: "assets/images/cheryl-picture.JPG"
+
+Robert Wan:
+  name: "Robert Wan"
+  bio: "OCR, Fullstack"
+  avatar: "assets/images/robert-prof-profile.jpg"
+
+Robin Liu:
+  name: "Robin Liu"
+  bio: "OCR, mechanical"
+  avatar: "assets/images/robin-profile.jpg"
