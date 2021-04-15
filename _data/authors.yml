@@ -24,3 +24,7 @@ Robin Liu:
   name: "Robin Liu"
   bio: "OCR, mechanical"
   avatar: "assets/images/robin-profile.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:robin.inboxes.inboxes@gmail.com"
